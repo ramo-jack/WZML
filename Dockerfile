@@ -1,4 +1,4 @@
-FROM FROM hsakal/gdtot:latest
+FROM hsakal/gdtot:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
